@@ -1,15 +1,8 @@
 {
-
   "version": "1.1.0",
-
-  "minimum_version": "1.1.0",
-
+  "minimum_version": "1.0.0",
   "required": false,
-
-  "download_url": "https://github.com/rootdevel/KuwooManager/releases/download/v1.0.0/KuwooManager_Setup_v1.1.0.zip",
-
+  "download_url": "https://github.com/rootdevel/KuwooManager/releases/download/v1.1.0/KuwooManager_Setup_v1.1.0.zip",
   "sha256": "",
-
-  "message": "Kuwoo Manager v1.1.0 정식 출시\n관리자 계정 추가"
-
+  "message": "Kuwoo Manager v1.1.0\n관리자 로그인 기능이 추가되었습니다."
 }
