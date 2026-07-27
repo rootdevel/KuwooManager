@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "minimum_version": "1.0.0",
+  "required": false,
+  "download_url": "https://github.com/rootdevel/KuwooManager/releases/download/v1.0.0/KuwooManager_Setup_v1.0.0.zip",
+  "sha256": "",
+  "message": "Kuwoo Manager v1.0.0 정식 출시\n전용 런처 추가\nGitHub 자동 업데이트 기능 추가\n런처 종료 시 서버 종료 여부 선택 기능 추가"
+}
