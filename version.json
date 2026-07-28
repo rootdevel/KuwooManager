@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "1.0.0",
   "minimum_version": "1.0.0",
   "required": false,
-  "download_url": "https://github.com/rootdevel/KuwooManager/releases/download/v2.0.0/KuwooManager_Setup_v2.0.0.zip",
+  "download_url": "https://github.com/rootdevel/KuwooManager/releases/download/v1.0.0/KuwooManager_Setup_v1.0.0.zip",
   "sha256": "482575f09f471c07ff64304cdf2b501650ff4a49b3f6ab05c559c2ae01bddedb",
-  "message": "Kuwoo Manager v2.0.0\n웹 기반 다중 비제이 매니저 관리.."
+  "message": "Kuwoo Manager v1.0.0\n정식 오픈"
 }
